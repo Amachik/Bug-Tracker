@@ -21,4 +21,3 @@ Pokud najdeš bug, či máš nápad na zlepšení, piš sem.
 **!Na obsah který je nahráván na web Hiyori se naše práva nevstahují!**
 
 
-https://4.bp.blogspot.com/-HmafLho7W00/XIkaFa5MNEI/AAAAAAAAAgo/gqXqj6-K9TMJxFBbA2RTf0SmntkdOkFigCKgBGAs/w0/torii-shrine-gate-scenery-sunset-horizon-uhdpaper.com-4K-132.jpg
