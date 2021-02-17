@@ -6,7 +6,7 @@ Pokud najdeš bug, či máš nápad na zlepšení, piš sem.
 **Majitelé všech projektů a zdrojáků.**<br/>
 ===: Amachi, Kira
 <br/>
-**Hl. Admin Projektů.**
+**Hl. Admin Projektů.**<br/>
 ===: S4amsu3
 <br/>
 **Technická podpora a Tvůrce našeho Discord Bota.**<br/>
