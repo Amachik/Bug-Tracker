@@ -1,4 +1,4 @@
-# Bug-Tracker
+# 🐞Bug-Tracker🐞
 **Bug Tracker projektů Hiyori, Hiyori Beta & Code Name Retsu.**<br/>
 Pokud najdeš bug, či máš nápad na zlepšení, piš sem.
 <br/>
